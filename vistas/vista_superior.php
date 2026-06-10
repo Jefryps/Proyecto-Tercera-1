@@ -12,8 +12,8 @@
       <menu>
         <div class="menu-Izquierda">
           <a href="./index.php"> 
-          <img src="./img/logo.avif" alt="Logo">
-        </a>
+            <img src="./img/logo.avif" alt="Logo">
+         </a>
         </div>
         <div class="menu-derecha">
           <a href="./index.php">Inicio</a>
@@ -24,7 +24,13 @@
 
         
         </div>
-
+        </div class="menu-container">
+         <div class="hamburger-icon">
+             <span></span>
+             <span></span>
+             <span></span>
+          </div>
+       </div>
 
 
       </menu>
