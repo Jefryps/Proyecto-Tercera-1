@@ -24,7 +24,7 @@
 
         
         </div>
-        </div class="menu-container">
+        <div class="menu-container">
          <div class="hamburger-icon">
              <span></span>
              <span></span>
