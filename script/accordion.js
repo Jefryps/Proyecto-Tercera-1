@@ -1,19 +1,19 @@
 console.log('Cargando Accordion...');
 const dataAccordion = [{
-  "title": "¿Qué son los Deportes Electrónicos?",
-  "desc": "Son deportes electrónicos, que se pueden practicar desde una PC o Consola de Videojuegos."
+  "title": "¿Machine Biker club, quienes somos?",
+  "desc": "Somos una comunidad de motociclistas apasionados por el estilo de vida y la cultura de la motocicleta Japonesas."
 },
 {
-  "title": "¿Qué se necesita para formar parte de un equipo de E-Sports?",
-  "desc": "Se necesita una PC o una Consola, además de mucha dedicación y esfuerzo."
+  "title": "Objetivo de la comunidad",
+  "desc": " Nuestro objetivo es crear un espacio donde los amantes de las motocicletas japonesas puedan compartir sus experiencias, conocimientos y pasión por estas máquinas únicas."
 },
 {
-  "title": "¿Son los E-Sports reconocidos como un deporte real?",
-  "desc": "El debate sobre si son deporte siempre genera polémica, pero los expertos lo tienen claro, lo son. Gobiernos como el estadounidense o el alemán reconocen a los jugadores profesionales de videojuegos como atletas y el Comité Olímpico Coreano ha concedido el rango de deporte olímpico a los esports."
+  "title": "¿Como formar parte de la comunidad?",
+  "desc": "Puedes unirte a nuestras redes sociales y participar en los eventos y actividades que organizamos."
 },
 {
-  "title": "¿Desde cuándo existen los E-Sports?",
-  "desc": "Los esports existen desde hace tiempo, pero es en la actualidad cuando están viviendo su mejor momento en términos de notoriedad, inversión y seguidores, gracias también a la expansión de internet y las nuevas tecnologías y plataformas. Lo que en un principio eran torneos minoritarios o locales, en los últimos tiempos se ha convertido en un fenómeno en el que no solo los jugadores profesionales están implicados, sino también los millones de fans de los videojuegos y la competición que lo siguen desde sus casas o llenan estadios de todo el mundo, desde Seúl hasta Berlín, pasando por Nueva York o Madrid."
+  "title": "Historia",
+  "desc": "La historia de Machine Biker Club se remonta a varios años atrás, cuando un grupo de entusiastas de las motocicletas japonesas se unió para compartir su pasión y conocimiento."
 }];
 
 
@@ -38,14 +38,16 @@ const dataAccordion = [{
       },
 
       showTab: function(refItem){
+        let currentitem = refItem.parentElement; 
         let activeTab = document.querySelector('.tab-active');
   
-        if(activeTab){
+        if(activeTab && activeTab !== currentitem){
           activeTab.classList.remove('tab-active');
         }
-  
-        console.log('show tab', refItem);
-        refItem.parentElement.classList.toggle('tab-active');
+        currentitem.classList.toggle('tab-active');
+
+
+        
       },
   
       insertData: function (_self) {

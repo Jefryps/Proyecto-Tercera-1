@@ -1,46 +1,46 @@
 console.log('Cards cargado correctamente');
 
 const dataCards = [{
-  "title": "Juega solo o con amigos",
-  "url_image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/15/18/league-of-legends.jpg?w968h681",
-  "desc": "No es necesario ser parte de un equipo, aunque no está de más un poco de ayuda.",
+  "title": "Yamaha confianza y diversion",
+  "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSews-0WkkJzZgZWdFMkpWDKwuP-k8FrbQ1Hw&s",
+  "desc": "Respaldo y confianza en Costa rica desde 1955, Yamaha es una marca reconocida mundialmente por su calidad y durabilidad.",
   "cta": "Mostrar más",
-  "link": "https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills"
+  "link": "https://www.yamahacostarica.com/?gad_source=1&gad_campaignid=23864675991&gbraid=0AAAAADqZYcCnQEzMuJN2VypYKK5Are7Mn&gclid=Cj0KCQjwornRBhCrARIsAON5exG_bYNWKi6bppcKFBdw5y-x9d4QsqXUeXsBa1w-dH83CQ6_x_fo2GcaAntUEALw_wcB"
 },
 {
-  "title": "Diferentes modos de juego",
-  "url_image": "https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/sites/4/2019/06/20165237/tft1.png",
-  "desc": "Modo Clásico, Dominion, Snowdown y otros modos de juego, todo depende de tu tipo de estretegia y tus mejores habilidades.",
+  "title": "Honda, calidad y durabilidad",
+  "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-l9kgPzrV1Vs_SjXE73Yu3rbmlBxLzhRk1w&s",
+  "desc": "Honda es una marca reconocida mundialmente por su calidad y durabilidad, con una amplia gama de motocicletas para todos los gustos.",
   "cta": "Mostrar más",
-  "link": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipq6zInbblAhUInFkKHSYwCMkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fwhen-a-passion-for-videogames-helps-land-that-job-11551888001&psig=AOvVaw2cvigcMN-U27d5xC22PpZw&ust=1572050615969380"
+  "link": "https://mundohonda.cr/"
 },
 {
-  "title": "Participa en las eliminatorias regionales",
-  "url_image": "https://d392eissrffsyf.cloudfront.net/LAN/Worlds%202015/CuartosDeFinal.jpg",
-  "desc": "Escala desde abajo, no es necesario enfrentarse a los mejores desde el promcipio, pero si debes ser el mejor para poder clasificar.",
+  "title": "kawasaki, potencia y velocidad",
+  "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyco44AtEbguF5RV48wuyYl_9kS5IQpEN9A&s",
+  "desc": "Kawasaki es una marca reconocida mundialmente por su potencia y velocidad, es una marca con estilo y diseño unico.",
   "cta": "Mostrar más",
-  "link": "https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills"
+  "link": "https://costarica.kawasaki-la.com/en-la/"
 },
 {
-  "title": "Personaliza tus campeones favoritos con skins",
-  "url_image": "https://miro.medium.com/v2/resize:fit:1400/1*myfZd0fORBarQOlZKXCHoQ.png",
-  "desc": "Ser un campeón tiene sus beneficios, escoge y presume tus skins personalizados!",
+  "title": "Conoce y comparte con tu comunidad de motocilcistas en costa rica y el mundo apascionados por las japonesas",
+  "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSrgb1KyKC0diwwLkJiejKW58NUDira69BlA&s",
+  "desc": "Comparte tus experiencias, fotos, videos y opiniones con otros amantes de las motocicletas japonesas en nuestra comunidad en línea.",
   "cta": "Mostrar más",
-  "link": "https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills"
+  "link": "https://www.reddit.com/r/motorcycles/comments/1ggjkbq/japanese_motorcycle/?tl=es-419"
 },
 {
-  "title": "Posicionate en los Ranking de la temporada",
-  "url_image": "https://bolavip.com/export/sites/bolavip/img/2019/01/23/image_2.png_1056961943.png",
-  "desc": "Más y más reconocimientos, si tú o tu equipo se convierte en los mejores, todos lo sabrán!",
+  "title": "Tienes prisa por vender tu moto? No te preocupes, nosotros te ayudamos a encontrar un comprador rápidamente",
+  "url_image": "https://crautos.com/assets/images/brand/logo.png?v=27	",
+  "desc": "Publica tu moto en nuestro sitio web y llega a miles de compradores potenciales en todo el país, con una plataforma fácil de usar y sin complicaciones.",
   "cta": "Mostrar más",
-  "link": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipq6zInbblAhUInFkKHSYwCMkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fwhen-a-passion-for-videogames-helps-land-that-job-11551888001&psig=AOvVaw2cvigcMN-U27d5xC22PpZw&ust=1572050615969380"
+  "link": "https://crautos.com/"
 },
 {
-  "title": "Prueba la beta de TFT",
-  "url_image": "https://newsbytes.ph/wp-content/uploads/2026/03/gameplay.jpg",
-  "desc": "¡Pase beta de TFT V.3 próximamente!",
+  "title": "Necesitas llantas y accesorios para tu moto? Tenemos una amplia selección de productos de alta calidad a precios competitivos",
+  "url_image": "https://motosportire.cr/wp-content/uploads/2022/03/LOGO-MOTOSPORTIRE-CON-MONTANAS.png",
+  "desc": "Gran variedad de llantas y accesorios para tu moto, con envío rápido y seguro a todo el país, además de un excelente servicio al cliente.",
   "cta": "Mostrar más",
-  "link": "https://las.leagueoflegends.com/es/news/game-updates/features/pase-beta-de-tft-v3-proximamente"
+  "link": "https://motosportire.cr/"
 }
 ];
 
